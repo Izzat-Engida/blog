@@ -5,11 +5,20 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "the quick brown fox jumps over the lazy dog"
+          }
+        ]
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:24:58.774Z",
+  "updatedAt": "2026-11-10T12:25:36.932Z",
   "meta": {
     "title": "zemenay test",
     "slug": "zemenay-test",
@@ -19,6 +28,11 @@
     ],
     "author": "Izzat Engida",
     "date": "2026-11-10",
-    "readTimeMinutes": 5
+    "cover": {
+      "src": "/workspace/api/upload?path=data%2Fassets%2Fzemenay%2Fzemenay-test%2Fzemenay-test-cover.png",
+      "alt": "zemenay test",
+      "source": "upload"
+    },
+    "readTimeMinutes": 1
   }
 }

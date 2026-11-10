@@ -5,11 +5,38 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "hello world "
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "const hello=()=>{"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:58:11.352Z",
+  "updatedAt": "2026-11-10T12:58:35.211Z",
   "meta": {
     "title": "dsdfsd",
     "slug": "dsdfsd",
@@ -19,6 +46,6 @@
     ],
     "author": "Izzat Engida",
     "date": "2026-11-10",
-    "readTimeMinutes": 5
+    "readTimeMinutes": 1
   }
 }

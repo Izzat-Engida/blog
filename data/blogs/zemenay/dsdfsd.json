@@ -8,18 +8,12 @@
         "type": "paragraph",
         "attrs": {
           "textAlign": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "hello world "
-          }
-        ]
+        }
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
         "attrs": {
-          "textAlign": null
+          "language": null
         },
         "content": [
           {
@@ -29,9 +23,9 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
         "attrs": {
-          "textAlign": null
+          "language": null
         },
         "content": [
           {
@@ -41,9 +35,9 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
         "attrs": {
-          "textAlign": null
+          "language": null
         },
         "content": [
           {
@@ -53,20 +47,26 @@
         ]
       },
       {
-        "type": "paragraph",
+        "type": "codeBlock",
         "attrs": {
-          "textAlign": null
+          "language": null
         },
         "content": [
           {
             "type": "text",
-            "text": "he"
+            "text": "hello()"
           }
         ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:58:55.216Z",
+  "updatedAt": "2026-11-10T12:59:15.216Z",
   "meta": {
     "title": "dsdfsd",
     "slug": "dsdfsd",

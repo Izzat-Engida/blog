@@ -1,6 +1,6 @@
 {
   "repoId": "zemenay",
-  "status": "draft",
+  "status": "published",
   "content": {
     "type": "doc",
     "content": [
@@ -18,7 +18,7 @@
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:25:47.576Z",
+  "updatedAt": "2026-11-10T12:25:50.376Z",
   "meta": {
     "title": "zemenay test",
     "slug": "zemenay-test",
@@ -28,11 +28,16 @@
     ],
     "author": "Izzat Engida",
     "date": "2026-11-10",
+    "readTimeMinutes": 1,
     "cover": {
       "src": "/workspace/api/upload?path=data%2Fassets%2Fzemenay%2Fzemenay-test%2Fzemenay-test-cover.png",
       "alt": "zemenay test",
-      "source": "upload"
+      "source": "upload",
+      "assetPath": "data/assets/zemenay/zemenay-test/zemenay-test-cover.png",
+      "filename": "zemenay-test-cover.png"
     },
-    "readTimeMinutes": 1
-  }
+    "publishedAt": "2026-11-10T12:25:50.376Z"
+  },
+  "lastPublishedSha": "ce88fcfb1ef0c63332596038ff0cf0d7afc53a62",
+  "publishedPath": "blog/Nov 2026/2026-11-10-zemenay-test-2026.mdx"
 }

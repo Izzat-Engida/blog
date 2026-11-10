@@ -32,11 +32,41 @@
         "type": "paragraph",
         "attrs": {
           "textAlign": null
-        }
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "console.log(\"hello world\");"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "}"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "he"
+          }
+        ]
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:58:35.211Z",
+  "updatedAt": "2026-11-10T12:58:55.216Z",
   "meta": {
     "title": "dsdfsd",
     "slug": "dsdfsd",

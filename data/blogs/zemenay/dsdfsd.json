@@ -18,43 +18,7 @@
         "content": [
           {
             "type": "text",
-            "text": "const hello=()=>{"
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "console.log(\"hello world\");"
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "}"
-          }
-        ]
-      },
-      {
-        "type": "codeBlock",
-        "attrs": {
-          "language": null
-        },
-        "content": [
-          {
-            "type": "text",
-            "text": "hello()"
+            "text": "const hello=()=>{console.log(\"hello world\");}hello()"
           }
         ]
       },
@@ -66,7 +30,7 @@
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:59:15.216Z",
+  "updatedAt": "2026-11-10T12:59:27.989Z",
   "meta": {
     "title": "dsdfsd",
     "slug": "dsdfsd",

@@ -5,11 +5,25 @@
     "type": "doc",
     "content": [
       {
-        "type": "paragraph"
+        "type": "blogImage",
+        "attrs": {
+          "src": "/workspace/api/upload?path=data%2Fassets%2Fzemenay%2Fanother-test-of-two-image%2Fwarrior-beneath-the-crimson-eclipse-1794315717479.png",
+          "sourceType": "upload",
+          "alt": "asdsada",
+          "caption": "",
+          "width": "100%",
+          "alignment": "center"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
       }
     ]
   },
-  "updatedAt": "2026-11-10T13:01:21.345Z",
+  "updatedAt": "2026-11-10T13:02:06.149Z",
   "meta": {
     "title": "another test of two image",
     "slug": "another-test-of-two-image",
@@ -20,6 +34,11 @@
     ],
     "author": "Izzat Engida",
     "date": "2026-11-10",
-    "readTimeMinutes": 5
+    "cover": {
+      "src": "/workspace/api/upload?path=data%2Fassets%2Fzemenay%2Fanother-test-of-two-image%2Fanother-test-of-two-image-cover.png",
+      "alt": "another test of two image",
+      "source": "upload"
+    },
+    "readTimeMinutes": 1
   }
 }

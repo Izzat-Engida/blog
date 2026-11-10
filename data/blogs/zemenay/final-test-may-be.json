@@ -26,6 +26,23 @@
                 "type": "paragraph",
                 "attrs": {
                   "textAlign": null
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "the man is dead"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
                 }
               }
             ]
@@ -40,7 +57,7 @@
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:55:24.642Z",
+  "updatedAt": "2026-11-10T12:55:44.646Z",
   "meta": {
     "title": "final test may be",
     "slug": "final-test-may-be",

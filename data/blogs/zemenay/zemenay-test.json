@@ -1,0 +1,24 @@
+{
+  "repoId": "zemenay",
+  "status": "draft",
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "updatedAt": "2026-11-10T12:24:58.774Z",
+  "meta": {
+    "title": "zemenay test",
+    "slug": "zemenay-test",
+    "summary": "testusd",
+    "tags": [
+      "test"
+    ],
+    "author": "Izzat Engida",
+    "date": "2026-11-10",
+    "readTimeMinutes": 5
+  }
+}

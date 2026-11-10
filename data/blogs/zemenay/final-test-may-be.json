@@ -69,7 +69,7 @@
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:55:54.670Z",
+  "updatedAt": "2026-11-10T12:56:13.282Z",
   "meta": {
     "title": "final test may be",
     "slug": "final-test-may-be",
@@ -79,6 +79,11 @@
     ],
     "author": "Izzat Engida",
     "date": "2026-11-10",
+    "cover": {
+      "src": "/workspace/api/upload?path=data%2Fassets%2Fzemenay%2Ffinal-test-may-be%2Ffinal-test-may-be-cover.png",
+      "alt": "final test may be",
+      "source": "upload"
+    },
     "readTimeMinutes": 1
   }
 }

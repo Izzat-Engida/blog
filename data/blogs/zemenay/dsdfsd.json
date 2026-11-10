@@ -1,0 +1,24 @@
+{
+  "repoId": "zemenay",
+  "status": "draft",
+  "content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "updatedAt": "2026-11-10T12:58:11.352Z",
+  "meta": {
+    "title": "dsdfsd",
+    "slug": "dsdfsd",
+    "summary": "dsfsdf",
+    "tags": [
+      "dfd"
+    ],
+    "author": "Izzat Engida",
+    "date": "2026-11-10",
+    "readTimeMinutes": 5
+  }
+}

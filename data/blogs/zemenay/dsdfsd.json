@@ -18,7 +18,30 @@
         "content": [
           {
             "type": "text",
-            "text": "const hello=()=>{console.log(\"hello world\");}hello()"
+            "text": "const hello=()=>{console.log(\"hello world\");}"
+          }
+        ]
+      },
+      {
+        "type": "blogImage",
+        "attrs": {
+          "src": "/workspace/api/upload?path=data%2Fassets%2Fzemenay%2Fdsdfsd%2Ftower-render-1794315586232.png",
+          "sourceType": "upload",
+          "alt": "asd",
+          "caption": "",
+          "width": "100%",
+          "alignment": "center"
+        }
+      },
+      {
+        "type": "codeBlock",
+        "attrs": {
+          "language": null
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "hello()"
           }
         ]
       },
@@ -30,7 +53,7 @@
       }
     ]
   },
-  "updatedAt": "2026-11-10T12:59:27.989Z",
+  "updatedAt": "2026-11-10T13:00:11.300Z",
   "meta": {
     "title": "dsdfsd",
     "slug": "dsdfsd",

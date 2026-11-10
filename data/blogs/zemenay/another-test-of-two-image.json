@@ -1,6 +1,6 @@
 {
   "repoId": "zemenay",
-  "status": "draft",
+  "status": "published",
   "content": {
     "type": "doc",
     "content": [
@@ -23,7 +23,7 @@
       }
     ]
   },
-  "updatedAt": "2026-11-10T13:02:16.870Z",
+  "updatedAt": "2026-11-10T13:02:19.758Z",
   "meta": {
     "title": "another test of two image",
     "slug": "another-test-of-two-image",
@@ -34,11 +34,16 @@
     ],
     "author": "Izzat Engida",
     "date": "2026-11-10",
+    "readTimeMinutes": 1,
     "cover": {
       "src": "/workspace/api/upload?path=data%2Fassets%2Fzemenay%2Fanother-test-of-two-image%2Fanother-test-of-two-image-cover.png",
       "alt": "another test of two image",
-      "source": "upload"
+      "source": "upload",
+      "assetPath": "data/assets/zemenay/another-test-of-two-image/another-test-of-two-image-cover.png",
+      "filename": "another-test-of-two-image-cover.png"
     },
-    "readTimeMinutes": 1
-  }
+    "publishedAt": "2026-11-10T13:02:19.758Z"
+  },
+  "lastPublishedSha": "4828ab0ecdc2996bb95ec21c38718107e9eb8057",
+  "publishedPath": "blog/Nov 2026/2026-11-10-another-test-of-two-image-2026.mdx"
 }

@@ -43,6 +43,17 @@ const config = {
           });
         }
       }
+
+      // Encode spaces in markdown image links so CommonMark renders them as real <img> tags instead of plain text
+      if (typeof result.content === 'string') {
+        result.content = result.content.replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (match, alt, url) => {
+          if (url.includes(' ') && !url.startsWith('<')) {
+            return `![${alt}](${encodeURI(url)})`;
+          }
+          return match;
+        });
+      }
+
       return result;
     },
   },
